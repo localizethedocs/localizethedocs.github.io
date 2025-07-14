@@ -1,0 +1,40 @@
+name: Request a New Project
+description: Use this template for requesting a new project.
+title: "[Project] <project-id>"
+labels: [ "new project" ]
+body:
+  - type: textarea
+    attributes:
+      label: Project Infomation
+      description: |
+        Example:
+        - **Project ID:** cmake-docs-l10n
+        - **Project Name:** Localization of CMake Documentation
+        - **Project Docs Url:** https://gitlab.kitware.com/cmake/cmake.git
+      value: |
+        - **Project ID:**
+        - **Project Name:**
+        - **Project Docs Url:**
+    validations:
+      required: true
+
+  - type: dropdown
+    id: generator
+    attributes:
+      label: Generator
+      description: Please select the generator used by this project.
+      multiple: false
+      default: 0
+      options:
+        - "Sphinx"
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: Checklist
+      options:
+        - label: The Project is not requested yet.
+          required: true
+        - label: The Project ID is unique.
+          required: true
