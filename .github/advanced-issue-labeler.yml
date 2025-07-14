@@ -1,0 +1,6 @@
+policy:
+  - section:
+      - id: [ generator ]
+        label:
+          - name: "gen: sphinx"
+            keys: [ "Sphinx" ]

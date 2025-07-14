@@ -1,0 +1,80 @@
+# Distributed under the OSI-approved BSD 3-Clause License.
+# See accompanying file LICENSE-BSD for details.
+
+name: ci-issue-labeler
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  precondition:
+    runs-on: ${{ vars.RUNNER }}
+    steps:
+      - name: Print Contexts/Inputs/Variables/Secrets
+        shell: bash
+        run: |
+          echo "[Contexts]"
+          echo "github.job = ${{ github.job }}"
+          echo "github.ref = ${{ github.ref }}"
+          echo "github.ref_name = ${{ github.ref_name }}"
+          echo "github.event_name = ${{ github.event_name }}"
+          echo "github.event.action = ${{ github.event.action }}"
+          echo "github.event.issue.title = ${{ github.event.issue.title }}"
+          echo "github.event.issue.html_url = ${{ github.event.issue.html_url }}"
+          echo "[Inputs]"
+          echo "[Variables]"
+          echo "vars.RUNNER = ${{ vars.RUNNER }}"
+          echo "[Secrets]"
+          echo "secrets.ACTOR_GITHUB_TOKEN = ${{ secrets.ACTOR_GITHUB_TOKEN }}"
+      - name: Check Required Variables
+        shell: bash
+        run: |
+          REQUIRED_VARIABLES_EXIST=true
+          if [[ -z "${{ vars.RUNNER }}" ]]; then
+            echo "vars.RUNNER is missing."
+            REQUIRED_VARIABLES_EXIST=false
+          fi
+          if [[ "${REQUIRED_VARIABLES_EXIST}" == "false" ]]; then
+            echo "Error: Some variables are missing." >&2
+            exit 1
+          fi
+      - name: Check Required Secrets
+        shell: bash
+        run: |
+          REQUIRED_SECRETS_EXIST=true
+          if [[ -z "${{ secrets.ACTOR_GITHUB_TOKEN }}" ]]; then
+            echo "secrets.ACTOR_GITHUB_TOKEN is missing."
+            REQUIRED_SECRETS_EXIST=false
+          fi
+          if [[ "${REQUIRED_SECRETS_EXIST}" == "false" ]]; then
+            echo "Error: Some secrets are missing." >&2
+            exit 1
+          fi
+
+  issue-labeler:
+    needs: [ 'precondition' ]
+    runs-on: ${{ vars.RUNNER }}
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Checkout to '${{ github.ref }}'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          token: ${{ secrets.ACTOR_GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Parse 'project_request.yml' issue form
+        id: parse-proj-req
+        uses: stefanbuck/github-issue-parser@v3
+        with:
+          template-path: .github/ISSUE_TEMPLATE/project_request.yml
+
+      - name: Set labels based on 'generator' field for 'project_request.yml' issue form
+        uses: redhat-plumbers-in-action/advanced-issue-labeler@v2
+        with:
+          issue-form: ${{ steps.parse-proj-req.outputs.jsonString }}
+          section: generator
+          token: ${{ secrets.ACTOR_GITHUB_TOKEN }}
