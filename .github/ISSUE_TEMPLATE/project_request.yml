@@ -5,7 +5,7 @@ labels: [ "new project" ]
 body:
   - type: textarea
     attributes:
-      label: Project Infomation
+      label: Project Request
       description: |
         Example:
         - **Project ID:** cmake-docs-l10n
