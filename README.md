@@ -29,7 +29,7 @@
         <a href="https://localizethedocs.crowdin.com/cmake-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/cmake-docs-l10n">GitHub</a> ·
         <a href="https://gitcode.com/localizethedocs/cmake-docs-l10n">GitCode</a> ·
-        <a href="https://gitflic.ru/project/localizethedocs/cmake-docs-l10n">GitFlic<a>
+        <a href="https://gitflic.ru/project/localizethedocs/cmake-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
   </tbody>
