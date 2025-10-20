@@ -113,6 +113,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rtd-dev-docs-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/rtd-dev-docs-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/rtd-dev-docs-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/rtd-dev-docs-l10n">GitHub</a> ·
+        <a href="https://gitcode.com/localizethedocs/rtd-dev-docs-l10n">GitCode</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/rtd-dev-docs-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rtd-user-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/rtd-user-docs-l10n">Preview</a> ·
