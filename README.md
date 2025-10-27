@@ -103,6 +103,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">qemu-docs-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/qemu-docs-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/qemu-docs-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/qemu-docs-l10n">GitHub</a> ·
+        <a href="https://gitcode.com/localizethedocs/qemu-docs-l10n">GitCode</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/qemu-docs-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">ros2-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/ros2-docs-l10n">Preview</a> ·
