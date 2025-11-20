@@ -5,8 +5,27 @@
 <h2 id="table-of-contents">Table of Contents</h2>
 
 <ul>
+  <li><a href="#mdbook-projects">mdBook Projects</a></li>
   <li><a href="#sphinx-projects">Sphinx Projects</a></li>
 </ul>
+
+<h2 id="mdbook-projects"><a href="#table-of-contents">mdBook Projects</a></h2>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th rowspan="1" colspan="2" align="center" style="text-align: center;"><div>mdBook Projects</div></th>
+    </tr>
+    <tr>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center;"><div>Project ID</div></th>
+      <th rowspan="1" colspan="1" align="center" style="text-align: center;"><div>Project Links</div></th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+</div>
 
 <h2 id="sphinx-projects"><a href="#table-of-contents">Sphinx Projects</a></h2>
 

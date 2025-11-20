@@ -2,5 +2,7 @@ policy:
   - section:
       - id: [ generator ]
         label:
+          - name: "gen: mdbook"
+            keys: [ "mdBook" ]
           - name: "gen: sphinx"
             keys: [ "Sphinx" ]

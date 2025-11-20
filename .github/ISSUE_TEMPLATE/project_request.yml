@@ -26,6 +26,7 @@ body:
       multiple: false
       default: 0
       options:
+        - "mdBook"
         - "Sphinx"
     validations:
       required: true
