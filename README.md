@@ -21,6 +21,16 @@
       <th rowspan="1" colspan="1" align="center" style="text-align: center;"><div>Project ID</div></th>
       <th rowspan="1" colspan="1" align="center" style="text-align: center;"><div>Project Links</div></th>
     </tr>
+    <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">mdbook-docs-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/mdbook-docs-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/mdbook-docs-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/mdbook-docs-l10n">GitHub</a> ·
+        <a href="https://gitcode.com/localizethedocs/mdbook-docs-l10n">GitCode</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/mdbook-docs-l10n">GitFlic</a>
+      </div></td>
+    </tr>
   </thead>
   <tbody>
   </tbody>
