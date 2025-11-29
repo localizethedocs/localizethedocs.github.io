@@ -31,6 +31,16 @@
         <a href="https://gitflic.ru/project/localizethedocs/mdbook-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
+    <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rust-book-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/rust-book-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/rust-book-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/rust-book-l10n">GitHub</a> ·
+        <a href="https://gitcode.com/localizethedocs/rust-book-l10n">GitCode</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/rust-book-l10n">GitFlic</a>
+      </div></td>
+    </tr>
   </thead>
   <tbody>
   </tbody>
