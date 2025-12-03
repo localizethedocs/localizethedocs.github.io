@@ -42,6 +42,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rust-embedded-book-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/rust-embedded-book-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/rust-embedded-book-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/rust-embedded-book-l10n">GitHub</a> ·
+        <a href="https://gitcode.com/localizethedocs/rust-embedded-book-l10n">GitCode</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/rust-embedded-book-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rust-rfcs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/rust-rfcs-l10n">Preview</a> ·
