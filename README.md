@@ -152,6 +152,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">mlx-docs-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/mlx-docs-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/mlx-docs-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/mlx-docs-l10n">GitHub</a> ·
+        <a href="https://gitcode.com/localizethedocs/mlx-docs-l10n">GitCode</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/mlx-docs-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">nix-dev-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/nix-dev-docs-l10n">Preview</a> ·
