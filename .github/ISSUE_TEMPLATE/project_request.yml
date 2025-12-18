@@ -10,11 +10,13 @@ body:
         Example:
         - **Project ID:** cmake-docs-l10n
         - **Project Name:** Localization of CMake Documentation
-        - **Project Docs Url:** https://gitlab.kitware.com/cmake/cmake.git
+        - **Project Docs Url:** https://cmake.org/cmake/help/latest
+        - **Project Repo Url:** https://gitlab.kitware.com/cmake/cmake.git
       value: |
         - **Project ID:**
         - **Project Name:**
         - **Project Docs Url:**
+        - **Project Repo Url:**
     validations:
       required: true
 
