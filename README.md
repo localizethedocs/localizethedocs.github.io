@@ -21,6 +21,8 @@
       <th rowspan="1" colspan="1" align="center" style="text-align: center;"><div>Project ID</div></th>
       <th rowspan="1" colspan="1" align="center" style="text-align: center;"><div>Project Links</div></th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">mdbook-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
@@ -81,8 +83,6 @@
         <a href="https://gitflic.ru/project/localizethedocs/rust-rfcs-l10n">GitFlic</a>
       </div></td>
     </tr>
-  </thead>
-  <tbody>
   </tbody>
 </table>
 </div>
