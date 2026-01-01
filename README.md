@@ -29,7 +29,7 @@
         <a href="https://projects.localizethedocs.org/mdbook-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/mdbook-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/mdbook-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/mdbook-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/mdbook-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/mdbook-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -39,7 +39,7 @@
         <a href="https://projects.localizethedocs.org/pyo3-guide-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/pyo3-guide-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/pyo3-guide-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/pyo3-guide-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/pyo3-guide-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/pyo3-guide-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -49,7 +49,7 @@
         <a href="https://projects.localizethedocs.org/rust-book-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/rust-book-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/rust-book-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/rust-book-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/rust-book-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/rust-book-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -59,7 +59,7 @@
         <a href="https://projects.localizethedocs.org/rust-embedded-book-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/rust-embedded-book-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/rust-embedded-book-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/rust-embedded-book-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/rust-embedded-book-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/rust-embedded-book-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -69,7 +69,7 @@
         <a href="https://projects.localizethedocs.org/rust-patterns-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/rust-patterns-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/rust-patterns-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/rust-patterns-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/rust-patterns-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/rust-patterns-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -79,7 +79,7 @@
         <a href="https://projects.localizethedocs.org/rust-rfcs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/rust-rfcs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/rust-rfcs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/rust-rfcs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/rust-rfcs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/rust-rfcs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -89,7 +89,7 @@
         <a href="https://projects.localizethedocs.org/zed-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/zed-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/zed-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/zed-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/zed-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/zed-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -117,7 +117,7 @@
         <a href="https://projects.localizethedocs.org/appimage-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/appimage-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/appimage-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/appimage-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/appimage-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/appimage-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -127,7 +127,7 @@
         <a href="https://projects.localizethedocs.org/clang-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/clang-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/clang-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/clang-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/clang-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/clang-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -137,7 +137,7 @@
         <a href="https://projects.localizethedocs.org/cmake-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/cmake-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/cmake-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/cmake-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/cmake-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/cmake-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -147,7 +147,7 @@
         <a href="https://projects.localizethedocs.org/conan-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/conan-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/conan-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/conan-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/conan-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/conan-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -157,7 +157,7 @@
         <a href="https://projects.localizethedocs.org/flatpak-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/flatpak-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/flatpak-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/flatpak-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/flatpak-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/flatpak-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -167,7 +167,7 @@
         <a href="https://projects.localizethedocs.org/linux-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/linux-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/linux-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/linux-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/linux-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/linux-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -177,7 +177,7 @@
         <a href="https://projects.localizethedocs.org/llvm-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/llvm-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/llvm-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/llvm-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/llvm-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/llvm-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -187,7 +187,7 @@
         <a href="https://projects.localizethedocs.org/mlx-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/mlx-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/mlx-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/mlx-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/mlx-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/mlx-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -197,7 +197,7 @@
         <a href="https://projects.localizethedocs.org/nix-dev-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/nix-dev-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/nix-dev-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/nix-dev-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/nix-dev-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/nix-dev-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -207,7 +207,7 @@
         <a href="https://projects.localizethedocs.org/python-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/python-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/python-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/python-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/python-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/python-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -217,7 +217,7 @@
         <a href="https://projects.localizethedocs.org/qemu-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/qemu-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/qemu-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/qemu-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/qemu-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/qemu-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -227,7 +227,7 @@
         <a href="https://projects.localizethedocs.org/ros2-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/ros2-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/ros2-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/ros2-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/ros2-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/ros2-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -237,7 +237,7 @@
         <a href="https://projects.localizethedocs.org/rtd-dev-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/rtd-dev-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/rtd-dev-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/rtd-dev-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/rtd-dev-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/rtd-dev-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -247,7 +247,7 @@
         <a href="https://projects.localizethedocs.org/rtd-user-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/rtd-user-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/rtd-user-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/rtd-user-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/rtd-user-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/rtd-user-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -257,7 +257,7 @@
         <a href="https://projects.localizethedocs.org/sglang-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/sglang-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/sglang-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/sglang-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/sglang-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/sglang-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -267,7 +267,7 @@
         <a href="https://projects.localizethedocs.org/sphinx-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/sphinx-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/sphinx-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/sphinx-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/sphinx-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/sphinx-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
@@ -277,7 +277,7 @@
         <a href="https://projects.localizethedocs.org/tilelang-docs-l10n">Preview</a> ·
         <a href="https://localizethedocs.crowdin.com/tilelang-docs-l10n">Crowdin</a> ·
         <a href="https://github.com/localizethedocs/tilelang-docs-l10n">GitHub</a> ·
-        <a href="https://gitcode.com/localizethedocs/tilelang-docs-l10n">GitCode</a> ·
+        <a href="https://atomgit.com/localizethedocs/tilelang-docs-l10n">AtomGit</a> ·
         <a href="https://gitflic.ru/project/localizethedocs/tilelang-docs-l10n">GitFlic</a>
       </div></td>
     </tr>
