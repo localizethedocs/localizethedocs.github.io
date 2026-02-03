@@ -24,6 +24,16 @@
   </thead>
   <tbody>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">asterinas-book-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/asterinas-book-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/asterinas-book-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/asterinas-book-l10n">GitHub</a> ·
+        <a href="https://atomgit.com/localizethedocs/asterinas-book-l10n">AtomGit</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/asterinas-book-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">cargo-book-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/cargo-book-l10n">Preview</a> ·
