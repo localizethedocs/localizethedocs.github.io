@@ -114,6 +114,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rust-edition-guide-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/rust-edition-guide-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/rust-edition-guide-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/rust-edition-guide-l10n">GitHub</a> ·
+        <a href="https://atomgit.com/localizethedocs/rust-edition-guide-l10n">AtomGit</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/rust-edition-guide-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rust-embedded-book-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/rust-embedded-book-l10n">Preview</a> ·
