@@ -352,6 +352,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">syncthing-docs-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/syncthing-docs-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/syncthing-docs-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/syncthing-docs-l10n">GitHub</a> ·
+        <a href="https://atomgit.com/localizethedocs/syncthing-docs-l10n">AtomGit</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/syncthing-docs-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">tilelang-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/tilelang-docs-l10n">Preview</a> ·
