@@ -74,6 +74,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">maturin-guide-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/maturin-guide-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/maturin-guide-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/maturin-guide-l10n">GitHub</a> ·
+        <a href="https://atomgit.com/localizethedocs/maturin-guide-l10n">AtomGit</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/maturin-guide-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">mdbook-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/mdbook-docs-l10n">Preview</a> ·
