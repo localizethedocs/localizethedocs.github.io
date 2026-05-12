@@ -164,6 +164,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rust-nomicon-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/rust-nomicon-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/rust-nomicon-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/rust-nomicon-l10n">GitHub</a> ·
+        <a href="https://atomgit.com/localizethedocs/rust-nomicon-l10n">AtomGit</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/rust-nomicon-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">rust-patterns-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/rust-patterns-l10n">Preview</a> ·
