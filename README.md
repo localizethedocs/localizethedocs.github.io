@@ -302,6 +302,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">emscripten-docs-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/emscripten-docs-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/emscripten-docs-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/emscripten-docs-l10n">GitHub</a> ·
+        <a href="https://atomgit.com/localizethedocs/emscripten-docs-l10n">AtomGit</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/emscripten-docs-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">fish-shell-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/fish-shell-docs-l10n">Preview</a> ·
