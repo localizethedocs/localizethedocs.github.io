@@ -392,6 +392,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">psycopg3-docs-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/psycopg3-docs-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/psycopg3-docs-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/psycopg3-docs-l10n">GitHub</a> ·
+        <a href="https://atomgit.com/localizethedocs/psycopg3-docs-l10n">AtomGit</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/psycopg3-docs-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">pygments-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/pygments-docs-l10n">Preview</a> ·
