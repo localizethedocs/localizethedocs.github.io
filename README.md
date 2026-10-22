@@ -432,6 +432,16 @@
       </div></td>
     </tr>
     <tr>
+      <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">llvm-libc-docs-l10n</div></td>
+      <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
+        <a href="https://projects.localizethedocs.org/llvm-libc-docs-l10n">Preview</a> ·
+        <a href="https://localizethedocs.crowdin.com/llvm-libc-docs-l10n">Crowdin</a> ·
+        <a href="https://github.com/localizethedocs/llvm-libc-docs-l10n">GitHub</a> ·
+        <a href="https://atomgit.com/localizethedocs/llvm-libc-docs-l10n">AtomGit</a> ·
+        <a href="https://gitflic.ru/project/localizethedocs/llvm-libc-docs-l10n">GitFlic</a>
+      </div></td>
+    </tr>
+    <tr>
       <td rowspan="1" colspan="1" align="left"   style="text-align: left;"  ><div class="project-id">mlx-docs-l10n</div></td>
       <td rowspan="1" colspan="1" align="center" style="text-align: center;"><div class="project-links">
         <a href="https://projects.localizethedocs.org/mlx-docs-l10n">Preview</a> ·
